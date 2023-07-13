@@ -1,7 +1,6 @@
-import { Box, Center, Flex, Heading, Icon, Stack } from "@chakra-ui/react";
+import { Box, Icon, Stack } from "@chakra-ui/react";
 import React from "react";
 import { IconType } from "react-icons";
-import { GrSearch } from "react-icons/gr";
 
 export interface SideBarItemProps {
   icon: IconType;
